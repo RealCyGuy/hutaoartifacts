@@ -1,6 +1,6 @@
 # hutaoartifacts
 
-Compare Hu Tao artifact stats with ocr!!!
+Compare Hu Tao artifact stats with OCR!!! (Any character should work, I just used it for Hu Tao. It only includes pyro dmg bonus, so other pyro chracters could be good.) 
 
 ![example output](https://i.imgur.com/ZFBrBWX.png)
 
