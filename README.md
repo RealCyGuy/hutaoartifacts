@@ -1,6 +1,8 @@
 # hutaoartifacts
 
-> Compare Hu Tao artifact stats with ocr!!!
+Compare Hu Tao artifact stats with ocr!!!
+
+![example output](https://i.imgur.com/ZFBrBWX.png)
 
 ## Usage
 
